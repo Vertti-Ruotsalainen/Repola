@@ -124,7 +124,7 @@ To doubt they were kneeling then.
 
 ##### **Scribe**
 
- _Scribe was designed and developed by Brian Reid of Carnegie Mellon University.  
+ * _Scribe was designed and developed by Brian Reid of Carnegie Mellon University.  
 It formed the subject of his **1980** doctoral dissertation, for which he received the Association for Computing Machinery's Grace Murray Hopper Award in **1982**.  
 Reid presented a paper describing Scribe in the same conference session in 1981 in which Charles Goldfarb presented GML (developed in 1969), the immediate predecessor of SGML.  
 Scribe is a markup language and word processing system that pioneered the use of descriptive markup.  
@@ -132,8 +132,12 @@ Scribe was revolutionary when it was proposed, because it involved for the first
 
 ##### **GML**
 
- _GML was developed in **1969** and the early **1970s** by **Charles Goldfarb**, **Edward Mosher** and **Raymond Lorie** (whose surname initials were used by Goldfarb to make up the term GML).  
+ * _GML was developed in **1969** and the early **1970s** by **Charles Goldfarb**, **Edward Mosher** and **Raymond Lorie** (whose surname initials were used by Goldfarb to make up the term GML).  
 Using GML, a document is marked up with tags that define what the text is, in terms of paragraphs, headers, lists, tables, and so forth. The document can then be automatically formatted for various devices simply by specifying a profile for the device.  
 For example, it is possible to format a document for a laser printer or a line (dot matrix) printer or for a screen simply by specifying a profile for the device without changing the document itself.  
 The Standard Generalized Markup Language (SGML), an ISO-standard technology for defining generalized markup languages for documents, is descended from GML.  
 The Extensible Markup Language (XML) was initially a streamlined and simplified development of SGML, but has outgrown its parent in terms of worldwide acceptance and support._
+
+
+## **Exercise 3**
+
