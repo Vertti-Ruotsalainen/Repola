@@ -3,7 +3,8 @@
 ## **Exercise 1**
 
 
-#### Italics and bold
+#### **_Italics and bold_**
+
 Writing in Markdown is _not_ that hard!
 
 I **will** complete these lessons!
@@ -11,7 +12,7 @@ I **will** complete these lessons!
 "_Of course_," she whispered. Then, she shouted: "All I need is **a little moxie**!"
 If you're thinking to yourself, **_This is unbelievable_**, you'd probably be right.
 
-#### Headers
+#### **Headers**
 
 # Header one
 
@@ -29,7 +30,7 @@ If you're thinking to yourself, **_This is unbelievable_**, you'd probably be ri
 
 Here's some words about the book _One Hundred Years..._.
 
-#### Links
+#### **Links**
 
 [Search for it.](www.google.com)
 [You're **really, really** going to want to see this.](www.dailykitten.com)
@@ -42,7 +43,7 @@ Well, do I have [the website for you][another fun place]!
 [a fun place]: www.zombo.com
 [another fun place]: www.stumbleupon.com
 
-#### Images
+#### **Images**
 
 ![A pretty tiger](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
 
@@ -68,7 +69,7 @@ I read this interesting quote the other day:
 
 >He left her quickly, fearing that her intimacy might turn to jibing and wishing to be out of the way before she offered her ware to another, a tourist from England or a student of Trinity. Grafton Street, along which he walked, prolonged that moment of discouraged poverty. In the roadway at the head of the street a slab was set to the memory of Wolfe Tone and he remembered having been present with his father at its laying. He remembered with bitterness that scene of tawdry tribute. There were four French delegates in a brake and one, a plump smiling young man, held, wedged on a stick, a card on which were printed the words: _VIVE L'IRLANDE_!
 
-#### Lists
+#### **Lists**
 
 * Flour
 * Cheese
@@ -103,7 +104,7 @@ I read this interesting quote the other day:
  For more help on tomato slicing, see Thomas Jefferson's seminal essay _Tom Ate Those_.
 
 
-#### Paragraphs
+#### **Paragraphs**
 
 We pictured the meek mild creatures where  
 They dwelt in their strawy pen,  
@@ -116,3 +117,23 @@ To doubt they were kneeling then.
 
 2. Pour a gallon of milk into the bowl.  
  Basically, take the same guidance as above: don't be messy, but if you are, clean it up!
+
+
+
+## **Exercise 2**
+
+##### **Scribe**
+
+ _Scribe was designed and developed by Brian Reid of Carnegie Mellon University.  
+It formed the subject of his **1980** doctoral dissertation, for which he received the Association for Computing Machinery's Grace Murray Hopper Award in **1982**.  
+Reid presented a paper describing Scribe in the same conference session in 1981 in which Charles Goldfarb presented GML (developed in 1969), the immediate predecessor of SGML.  
+Scribe is a markup language and word processing system that pioneered the use of descriptive markup.  
+Scribe was revolutionary when it was proposed, because it involved for the first time a clean separation of presentation and content._  
+
+##### **GML**
+
+ _GML was developed in **1969** and the early **1970s** by **Charles Goldfarb**, **Edward Mosher** and **Raymond Lorie** (whose surname initials were used by Goldfarb to make up the term GML).  
+Using GML, a document is marked up with tags that define what the text is, in terms of paragraphs, headers, lists, tables, and so forth. The document can then be automatically formatted for various devices simply by specifying a profile for the device.  
+For example, it is possible to format a document for a laser printer or a line (dot matrix) printer or for a screen simply by specifying a profile for the device without changing the document itself.  
+The Standard Generalized Markup Language (SGML), an ISO-standard technology for defining generalized markup languages for documents, is descended from GML.  
+The Extensible Markup Language (XML) was initially a streamlined and simplified development of SGML, but has outgrown its parent in terms of worldwide acceptance and support._
