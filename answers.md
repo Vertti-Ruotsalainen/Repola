@@ -145,4 +145,33 @@ The Extensible Markup Language (XML) was initially a streamlined and simplified 
 >
 >
 
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Panda_closeup.jpg/1024px-Panda_closeup.jpg" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Panda_closeup.jpg/1024px-Panda_closeup.jpg" alt="EPIC PANDA" style="height: 100px; width:100px;"/>
+
+
+
+ ## **Exercise 4** 
+>
+>**OLIO**
+
+```C#
+
+public class Person{
+  private string name;
+  private int age;
+
+  public Person(string initialName)
+  {
+    this.age = 0;
+    this.name = initialName;
+  }
+  public void PrintPerson()
+  {
+    Console.WriteLine(this.name + ", age " + this.age + " years");
+  }
+  public void GrowOlder()
+  {
+    this.age = this.age + 1;
+  }
+}
+
+```
