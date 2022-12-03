@@ -144,6 +144,5 @@ The Extensible Markup Language (XML) was initially a streamlined and simplified 
 [![Whammagedon](https://res.cloudinary.com/marcomontalbano/image/upload/v1670101223/video_to_markdown/images/youtube--E8gmARGvPlI-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/E8gmARGvPlI "Whammagedon")
 >
 >
- ![BIG PANDA][PANDA]
 
- [PANDA]: (https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Panda_closeup.jpg/1024px-Panda_closeup.jpg)
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Panda_closeup.jpg/1024px-Panda_closeup.jpg" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
