@@ -146,4 +146,4 @@ The Extensible Markup Language (XML) was initially a streamlined and simplified 
 >
  ![BIG PANDA][PANDA]
 
- [PANDA]: (https://wwf.fi/app/uploads/p/6/6/8dsli7df6gb0hm2fisk59/medium_ww1113726-aspect-ratio-3x2.jpg?ver=479b2e8f)
+ [PANDA]: (https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Panda_closeup.jpg/1024px-Panda_closeup.jpg)
