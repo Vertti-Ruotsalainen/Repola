@@ -140,4 +140,10 @@ The Extensible Markup Language (XML) was initially a streamlined and simplified 
 
 
 ## **Exercise 3**
+>
+[![Whammagedon](https://res.cloudinary.com/marcomontalbano/image/upload/v1670101223/video_to_markdown/images/youtube--E8gmARGvPlI-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/E8gmARGvPlI "Whammagedon")
+>
+>
+ ![BIG PANDA][PANDA]
 
+ [PANDA]: (https://wwf.fi/app/uploads/p/6/6/8dsli7df6gb0hm2fisk59/medium_ww1113726-aspect-ratio-3x2.jpg?ver=479b2e8f)
